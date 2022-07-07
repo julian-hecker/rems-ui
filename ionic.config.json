@@ -1,0 +1,7 @@
+{
+  "name": "rems-ui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
